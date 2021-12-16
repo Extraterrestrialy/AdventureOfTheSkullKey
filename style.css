@@ -1,0 +1,8 @@
+body{background-color: #ffcff1;
+	margin: 100px;}
+img{
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+h1,h2,h3{font-family: Copperplate Gothic;}
